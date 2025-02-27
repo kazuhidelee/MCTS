@@ -1,6 +1,4 @@
-# EECS 492 - Homework 4
-
-## Monte Carlo Tree Search (MCTS) Implementation
+# Monte Carlo Tree Search (MCTS) Algorithm
 
 ### Overview
 In this assignment, I have implemented the Monte Carlo Tree Search (MCTS) component of AlphaZero for the game Othello.
