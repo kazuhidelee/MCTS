@@ -1,10 +1,10 @@
 # Monte Carlo Tree Search (MCTS) Algorithm
 
 ### Overview
-In this assignment, I have implemented the Monte Carlo Tree Search (MCTS) component of AlphaZero for the game Othello.
+In this project, I have implemented the Monte Carlo Tree Search (MCTS) component of AlphaZero for the game Othello.
 
 ### Setup
-- The assignment was completed and ran on **Google Colab notebook**.
+- The project was completed and ran on **Google Colab notebook**.
 
 **To try it youself:**
 - Make a copy of the Colab notebook before starting to code (`File > Save a copy in Drive`).
